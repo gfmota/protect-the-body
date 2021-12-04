@@ -154,7 +154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13f909d2694c25f45aa0a7f5535e681f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 25
+  body: {fileID: 0}
   rewardScore: {fileID: 4759741744518933199, guid: 35a8f654b533cdd48b88ee36f53aad53, type: 3}
-  speed: 0
-  rewardScore: {fileID: 0}
+  enemyAnimations: []
+  speed: 25

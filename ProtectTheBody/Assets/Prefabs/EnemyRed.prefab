@@ -11,11 +11,11 @@ GameObject:
   - component: {fileID: 4487417111802647478}
   - component: {fileID: 2525247133570561484}
   - component: {fileID: 2747039243637808373}
-  - component: {fileID: 5169545473193665656}
   - component: {fileID: 7816018019616332291}
   - component: {fileID: 8810234455647450062}
+  - component: {fileID: 1177781347080558430}
   m_Layer: 7
-  m_Name: Enemy
+  m_Name: EnemyRed
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -105,20 +105,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &5169545473193665656
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4487417111802647479}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e1426fd74872f14b8e460e7f47f8bb1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 25
-  rewardScore: {fileID: 4759741744518933199, guid: 35a8f654b533cdd48b88ee36f53aad53, type: 3}
 --- !u!50 &7816018019616332291
 Rigidbody2D:
   serializedVersion: 4
@@ -156,3 +142,19 @@ CircleCollider2D:
   m_Offset: {x: 0.0033367276, y: 0}
   serializedVersion: 2
   m_Radius: 0.1429685
+--- !u!114 &1177781347080558430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4487417111802647479}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13f909d2694c25f45aa0a7f5535e681f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 25
+  rewardScore: {fileID: 4759741744518933199, guid: 35a8f654b533cdd48b88ee36f53aad53, type: 3}
+  speed: 0
+  rewardScore: {fileID: 0}

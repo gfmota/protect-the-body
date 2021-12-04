@@ -1,46 +1,46 @@
 fileFormatVersion: 2
-guid: 5077d441ed42ed245b16244868967e9b
+guid: 08b19f89dae227147886d2d299cba627
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5213984096068742657
-    second: Red_virus _0
+      213: -7005486408468827572
+    second: virusBlue_0
   - first:
-      213: -7064906363024847401
-    second: Red_virus _1
+      213: 1918542292491862492
+    second: virusBlue_1
   - first:
-      213: -8882014057588435475
-    second: Red_virus _2
+      213: 517134917897318328
+    second: virusBlue_2
   - first:
-      213: 5668599109756335192
-    second: Red_virus _3
+      213: 5141804462989838731
+    second: virusBlue_3
   - first:
-      213: -7269258962348381619
-    second: Red_virus _4
+      213: -3660584109940365547
+    second: virusBlue_4
   - first:
-      213: -7538526573375343284
-    second: Red_virus _5
+      213: 2705889441038510463
+    second: virusBlue_5
   - first:
-      213: 7774825562025705289
-    second: Red_virus _6
+      213: 5301267568382546880
+    second: virusBlue_6
   - first:
-      213: 6896820858711090432
-    second: Red_virus _7
+      213: 3214301931052369733
+    second: virusBlue_7
   - first:
-      213: -3598846908551975315
-    second: Red_virus _8
+      213: -3592788768209344674
+    second: virusBlue_8
   - first:
-      213: 1623746244615523355
-    second: Red_virus _9
+      213: 5662384174055618757
+    second: virusBlue_9
   - first:
-      213: 9217486657816430990
-    second: Red_virus _10
+      213: -492831801597333150
+    second: virusBlue_10
   - first:
-      213: 1747797853621192748
-    second: Red_virus _11
+      213: -7854338135700258609
+    second: virusBlue_11
   - first:
-      213: -8878562292591273568
-    second: Red_virus _12
+      213: 9157878952623247354
+    second: virusBlue_12
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -142,7 +142,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Red_virus _0
+      name: virusBlue_0
       rect:
         serializedVersion: 2
         x: 0
@@ -156,14 +156,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff15949e61534a7b0800000000000000
-      internalID: -5213984096068742657
+      spriteID: c4273686a3387ce90800000000000000
+      internalID: -7005486408468827572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_virus _1
+      name: virusBlue_1
       rect:
         serializedVersion: 2
         x: 64
@@ -177,14 +177,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ddc184281964fd90800000000000000
-      internalID: -7064906363024847401
+      spriteID: cd18a86dc0800aa10800000000000000
+      internalID: 1918542292491862492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_virus _2
+      name: virusBlue_2
       rect:
         serializedVersion: 2
         x: 128
@@ -198,14 +198,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de55a67064fbcb480800000000000000
-      internalID: -8882014057588435475
+      spriteID: 8bf683ac77b3d2700800000000000000
+      internalID: 517134917897318328
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_virus _3
+      name: virusBlue_3
       rect:
         serializedVersion: 2
         x: 192
@@ -219,14 +219,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8543f175bd8eaae40800000000000000
-      internalID: 5668599109756335192
+      spriteID: b890709aaeb5b5740800000000000000
+      internalID: 5141804462989838731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_virus _4
+      name: virusBlue_4
       rect:
         serializedVersion: 2
         x: 0
@@ -240,14 +240,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4a66e8ec776e1b90800000000000000
-      internalID: -7269258962348381619
+      spriteID: 517a098852ef23dc0800000000000000
+      internalID: -3660584109940365547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_virus _5
+      name: virusBlue_5
       rect:
         serializedVersion: 2
         x: 64
@@ -261,14 +261,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c45be18b506c16790800000000000000
-      internalID: -7538526573375343284
+      spriteID: f79a4963c104d8520800000000000000
+      internalID: 2705889441038510463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_virus _6
+      name: virusBlue_6
       rect:
         serializedVersion: 2
         x: 128
@@ -282,14 +282,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94f3b27e7aab5eb60800000000000000
-      internalID: 7774825562025705289
+      spriteID: 0c39db024c2e19940800000000000000
+      internalID: 5301267568382546880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_virus _7
+      name: virusBlue_7
       rect:
         serializedVersion: 2
         x: 192
@@ -303,14 +303,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 005aaf2b70e66bf50800000000000000
-      internalID: 6896820858711090432
+      spriteID: 5478a31839e7b9c20800000000000000
+      internalID: 3214301931052369733
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_virus _8
+      name: virusBlue_8
       rect:
         serializedVersion: 2
         x: 0
@@ -324,14 +324,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6e2fbeddc35e0ec0800000000000000
-      internalID: -3598846908551975315
+      spriteID: e576ed596a9d32ec0800000000000000
+      internalID: -3592788768209344674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_virus _9
+      name: virusBlue_9
       rect:
         serializedVersion: 2
         x: 64
@@ -345,14 +345,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1ccea34b94b88610800000000000000
-      internalID: 1623746244615523355
+      spriteID: 5c8f06cd764d49e40800000000000000
+      internalID: 5662384174055618757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_virus _10
+      name: virusBlue_10
       rect:
         serializedVersion: 2
         x: 128
@@ -366,14 +366,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e890d0967471bef70800000000000000
-      internalID: 9217486657816430990
+      spriteID: 26176cb661c1929f0800000000000000
+      internalID: -492831801597333150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_virus _11
+      name: virusBlue_11
       rect:
         serializedVersion: 2
         x: 192
@@ -387,14 +387,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c28084c33ec614810800000000000000
-      internalID: 1747797853621192748
+      spriteID: fc048c36419cff290800000000000000
+      internalID: -7854338135700258609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_virus _12
+      name: virusBlue_12
       rect:
         serializedVersion: 2
         x: 0
@@ -408,8 +408,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a95be1b2a209c480800000000000000
-      internalID: -8878562292591273568
+      spriteID: aff822b0362571f70800000000000000
+      internalID: 9157878952623247354
       vertices: []
       indices: 
       edges: []

@@ -1500,7 +1500,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7cef39c89e38d9044a330d6b4df38299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemy: {fileID: 4487417111802647479, guid: e11b66909ee456e42b714bb296e6ab5f, type: 3}
+  enemy: {fileID: 4487417111802647479, guid: 2b55e15364859c5489d1b8d0cc0e6efb, type: 3}
   timer: 5
 --- !u!114 &2039706834
 MonoBehaviour:
